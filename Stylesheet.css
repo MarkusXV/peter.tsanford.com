@@ -1,0 +1,61 @@
+html{
+    padding:0;
+    font-family: system-ui;
+}
+
+header{
+    color: #212121;
+    text-align: center;
+    text-transform:capitalize;
+    font-size:3rem;
+    background-color: #c5c5c5;
+    padding: 2rem 
+    
+}
+
+body{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#Navigation_Bar{
+    background-color: #efeded;
+    text-align: center;
+    padding: .5rem 0 .5rem 2rem;
+    
+}
+
+.Nav_Links{
+    font-size: large;
+    text-decoration: none;
+    
+    padding: 1rem 1rem 2rem 1rem;
+
+    border: 10px black;
+    
+}
+
+a:link{
+    color:#2f2f2f;
+}
+
+a:visited{
+    color: #016101;
+}
+
+a:hover{
+    color: #939393;
+}
+
+
+
+#Footer{
+    background-color: #efeded;
+    position: absolute;
+    bottom: 0;
+    left:.01%;
+    right:.01%;
+    padding: 1rem;
+
+}
