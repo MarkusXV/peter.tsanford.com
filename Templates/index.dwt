@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- TemplateInfo codeOutsideHTMLIsLocked="true" -->
+        <link rel="stylesheet" type="text/css" href="../Stylesheet.css">
+    </head>
+  
+    <body>
+      <header>
+        <div>Peter Sanford</div>
+        <span class="circle-image">
+          <img src="../Pictures/smirk.jpeg" alt=""/>
+        </span>
+      </header>
+      
+      <nav id="Navigation_Bar">
+        <a class="Nav_Links" href="../Home.html">Home</a>
+        <a class="Nav_Links" href="../Profile.html">Projects</a>
+        <a class="Nav_Links" href="../Contact.html">Links</a>
+        <a class="Nav_Links" href="../Contact.html">Contact Me</a>
+      </nav>
+        
+        
+        
+    <!-- TemplateBeginEditable name="body" -->
+    <!-- TemplateEndEditable -->
+      
+      
+        
+
+      <div id="Footer">
+        <a id="Back_to_top" href="../TestWebsite.html">Back to Top</a>
+      </div>
+      
+    </body>
+</html>

@@ -18,11 +18,9 @@ header{
     right:5%;
     top:5%;*/
     display: flex;
-    align-self: center;
     border-radius: 50%;
     overflow: hidden;
-    width: 10rem;
-    height: 10rem;
+    width: 10vw;
   }
   .circle-image img{
     width:100%;
