@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!-- TemplateInfo codeOutsideHTMLIsLocked="true" -->
+        <!-- TemplateInfo codeOutsideHTMLIsLocked="false" -->
         <link rel="stylesheet" type="text/css" href="../Stylesheet.css">
     </head>
   
@@ -9,7 +9,7 @@
       <header>
         <div>Peter Sanford</div>
         <span class="circle-image">
-          <img src="../Pictures/smirk.jpeg" alt=""/>
+          <img src="../Pictures/headshot.jpg" alt=""/>
         </span>
       </header>
       
